@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ee3446</color>
+    <!--menu header bg and toolbar bg color (main color code)-->
+    <color name="toolbar_hdr_bg">#FFB41726</color>
+    <!--top bar status darker then color code-->
+    <color name="colorPrimaryDark">#FFB41726</color>
+    <color name="dark_red">#91121e</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000</color>
+    <color name="light_gray">#A3A3A3</color>
+    <color name="gray_bg">#EDEDED</color>
+    <color name="green">#49b621</color>
+</resources>

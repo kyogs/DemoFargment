@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:digicorp="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="?attr/colorPrimary"
+    android:contentInsetLeft="0dp"
+    android:contentInsetStart="0dp"
+    app:contentInsetLeft="0dp"
+    app:contentInsetStart="0dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+        <ms.cloudtea.viewpagermultiplefragmentdemo.app.view.TextView
+            android:id="@+id/txt_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/txt_right_menu"
+            android:layout_toRightOf="@+id/txt_back"
+            android:gravity="center"
+            android:text="Title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_20"
+            digicorp:asset_font_file_name="@string/roboto_regular" />
+
+        <ms.cloudtea.viewpagermultiplefragmentdemo.app.view.TextView
+            android:id="@+id/txt_back"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:background="?android:attr/selectableItemBackground"
+            android:gravity="center"
+            android:text="@string/back_icon"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_18"
+            digicorp:asset_font_file_name="@string/font_icon_name" />
+
+        <ms.cloudtea.viewpagermultiplefragmentdemo.app.view.TextView
+            android:id="@+id/txt_right_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:padding="@dimen/dp_5"
+            android:text="@string/right_menu_name"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_16"
+            digicorp:asset_font_file_name="@string/roboto_light" />
+    </RelativeLayout>
+
+</android.support.v7.widget.Toolbar>

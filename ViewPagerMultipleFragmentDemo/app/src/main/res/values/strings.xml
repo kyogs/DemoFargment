@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewPagerMultipleFragmentDemo</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="page_1">Page 1</string>
+    <string name="page_2">Page 2</string>
+    <string name="page_3">Page 3</string>
+
+    <string name="fragment_a1">Fragment A1</string>
+    <string name="fragment_a2">Fragment A2</string>
+    <string name="fragment_a3">Fragment A3</string>
+    <string name="fragment_b1">Fragment B1</string>
+    <string name="fragment_b2">Fragment B2</string>
+    <string name="fragment_b3">Fragment B3</string>
+    <string name="fragment_c1">Fragment C1</string>
+    <string name="fragment_common">Fragment common</string>
+    <string name="next_fragment">Next Fragment</string>
+
+    <string name="font_icon_name">materialdesignjim_Regular.ttf</string>
+    <string name="roboto_light">Roboto_Light.ttf</string>
+    <string name="roboto_regular">Roboto_Regular.ttf</string>
+
+
+    <!--font code-->
+    <string name="back_icon">\uE610</string>
+    <string name="email_icon">\uE687</string>
+    <string name="contact_icon">\uE709</string>
+    <string name="menu_icon">\uE6E5</string>
+    <string name="search_icon">\uE742</string>
+    <string name="notification_icon">\uE6F8</string>
+    <string name="menu_overflow_icon">\uE6EF</string>
+    <string name="cart_icon">\uE74F</string>
+    <string name="fb_icon">\uE71F</string>
+    <string name="linkedin_icon">\uE722</string>
+    <string name="google_plus_icon">\uE720</string>
+    <string name="tweeter_icon">\uE725</string>
+    <string name="pen_icon">\uE656</string>
+    <string name="info_icon">\uE6BF</string>
+    <string name="map_icon">\uE714</string>
+    <string name="clear_icon">\uE634</string>
+    <string name="calander_icon">\uE689</string>
+    <string name="refresh_icon">\uE72C</string>
+    <string name="arrow_down_icon">\uE68C</string>
+    <string name="spinner_arrow_icon">\uE611</string>
+    <string name="arrow_up_icon">\uE68B</string>
+    <string name="chart_icon">\uE67A</string>
+    <string name="right_icon">\uE638</string>
+    <string name="rupee_icon">\u20B9</string>
+    <string name="right_arrow_icon">\uE642</string>
+    <string name="folder_icon">\u20B9</string>
+    <string name="close_icon">\uE647</string>
+    <string name="clock_icon">\uE602</string>
+    <string name="lock_icon">\uE6BA</string>
+    <string name="profile_icon">\uE66B</string>
+    <string name="location_icon">\uE714</string>
+    <string name="web_icon">\uE727</string>
+    <string name="error_icon">\uE61A</string>
+    <string name="warning_icon">\uE6BF</string>
+
+
+    <string name="right_menu_name">GUARDAR</string>
+    <string name="agree">Agregar</string>
+    <string name="accept">Aceptar</string>
+    <string name="edit_order">Editar Pedido</string>
+    <string name="send_order">Enviar Pedido</string>
+</resources>
